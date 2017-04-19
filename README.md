@@ -92,4 +92,5 @@ Node.js binding for iotivity.
 * ocf-servers/js-servers/*.js: When a js file is launched, an OCF server is created and presented in the network.
 * Cloud app: present and control the sensors via Web portal. 
 
-
+## Flow chart
+![](flow.png)

@@ -42,7 +42,7 @@ From OIC specification 1.1:
   >
   > represents an Entity modelled and exposed by the Framework
 
-* Service
+* Server
   > 3.1.28
   >
   > Server
